@@ -36,8 +36,11 @@ const Slider = () => {
                                       ]
                             }
                     }}
-                    
-            />
+              
+                
+
+            >     
+            </Carousel>
         </div>
     )
 }

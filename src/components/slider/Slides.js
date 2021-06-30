@@ -3,6 +3,7 @@ import "./Slider.css";
 import carousel1 from "../../media/carousel1.jpg";  
 import carousel2 from "../../media/carousel2.jpg";  
 import carousel3 from "../../media/carousel3.jpg";  
+import carousel4 from "../../media/carousel4.jpg";  
  
 
 const slidesInfo = [
@@ -11,7 +12,9 @@ const slidesInfo = [
         src: carousel1,
         className: "hola",
         alt: "Project1 alt",
-        desc: "Proyecto 1"
+        desc: "Consumidor API REST",
+        href: "https://github.com/Adolfouv/react-portafolio",
+        
        
     },
 
@@ -19,7 +22,8 @@ const slidesInfo = [
     {
         src: carousel2,
         alt: "Project2 alt",
-        desc: "Proyecto 2",
+        desc: "Sistema Inventario",
+        
     
     },
 
@@ -27,7 +31,14 @@ const slidesInfo = [
     {
         src: carousel3,
         alt: "Project3 alt",
-        desc: "Proyecto 3"
+        desc: "BDD Centro medico"
+    },
+    
+
+    {
+        src: carousel4,
+        alt: "Project4 alt",
+        desc: "Flamequest"
     }
 ]
 

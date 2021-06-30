@@ -9,9 +9,14 @@ const About = () => {
             <div className="about-desc">
                 <h3>¿Quien soy?</h3>
                 <p>
-                    Soy titulado de la carrera Analista Programador en la Universidad Tecnológica de Chile, INACAP, poseo 
-                    manejo del inglés como segundo lenguaje y tengo conocimientos básicos en desarrollo front-end HTML,CSS y JS.
-                    Mi objetivo es convertirme en un desarrollador full stack que pueda llevar a cabo proyectos y liderarlos. 
+                Actualmente poseo conocimientos en:<br></br><br></br>
+<b>Base de Datos:</b> SQL Server, MySQL (MariaDB), MongoDB.<br></br>
+<b>BackEnd:</b> Java (Desarrollo modelo CRUD), VisualBasic, Javascript, SQL.<br></br>
+<b>FrontEnd:</b> CSS3, Javascript, React.js.<br></br>
+<b>Git:</b> GitPages, Github, entre otras tecnologías. <br></br><br></br>
+Otros conocimientos relacionados:<br></br><br></br>
+API REST, Bootstrap,Wordpress, Adobe Illustrator, OBS Studio, Godot Engine (.gd), Hostgator Hosting, Cisco, PacketTracer, Bizagi, VirtualBox.
+   
                 </p>
             </div>
             <div className="about-img">

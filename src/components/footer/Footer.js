@@ -20,11 +20,11 @@ const Footer = () => {
                     <a href="https://linkedin.com/in/adolfo-ulloa-9088371ba" target="_blank" rel="noreferrer">
                         <i className="fab fa-linkedin linkedin"></i>
                     </a>
-                    <a href="https://twitter.com" target="_blank" rel="noreferrer">
-                        <i className="fab fa-twitter twitter"></i>
+                    <a href="https://api.whatsapp.com/send/?phone=56933626350&text&app_absent=0" target="_blank" rel="noreferrer">
+                        <i className="fab fa-whatsapp-square whatsapp"></i>
                     </a>
-                    <a href="https://facebook.com" target="_blank" rel="noreferrer">
-                        <i className="fab fa-facebook facebook"></i>
+                    <a href="https://github.com/Adolfouv" target="_blank" rel="noreferrer">
+                        <i className="fab fa-github-square github"></i>
                     </a>
                 </div>
             </div>
